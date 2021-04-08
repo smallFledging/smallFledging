@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @smallFledging
+- 👀 I’m interested in Vue and Javascript
+- 🌱 I’m currently learning ... (always)
+- 📫 How to reach me ... janicehasawebsite.com
