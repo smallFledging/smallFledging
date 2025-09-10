@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janice Taylor
 - 👀 I have experience in Vue and Javascript
 - 🌱 I’m currently on the Full stack Web Dev Level 4 Skills Bootcamp learning React, Python, SQL and NodeJS
-- 📫 How to reach me ... s.janice.taylor@gmail.com
+- 📫 How to reach me ... janicetaylor321@gmail.com
 - Fun little Vue website I've built ... https://audio-player-ga9t.onrender.com/#/
